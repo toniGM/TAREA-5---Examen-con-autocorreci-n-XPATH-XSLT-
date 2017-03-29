@@ -20,7 +20,7 @@ En fichero questions.xml se ha introducido una modificación para que enlace al 
    
 #### 3.- Inclusión de código dentro de javaScript para forzar al usuario a responder todas las preguntas.
 
-Se ha introducido la función comprobar, dentro de javaScript, para que se deban responder todas las preguntas antes de poder corregir. En este caso la implementación de dicha función solo me ha sido posible para las tres primeras preguntas, teniendo que ocultar el resto de código al no funcionar, ya que si no, no se podia comprobar la corrección del mismo para poder ver la tabla solicitada en el siguiente punto. Se puede observar la introducción de dicha función al final del javaScript del examen.
+Se ha introducido la función comprobar, dentro de javaScript, para que se deban responder todas las preguntas antes de poder corregir. Una vez contestadas todas las preguntas se podrá ver la tabla solicitada en el siguiente punto. Se puede observar la introducción de dicha función al final del javaScript del examen.
 
 
 #### 4.- Modificación de código para que la aplicación realice la corrección personalizada.
