@@ -3,26 +3,13 @@
 Partiendo del examen de la TAREA 3 del examen de autocorrección se realizan las siguientes variaciones y modificaciones sobre la misma.
 
 
-1.- Se ha modificado el acceso al objeto xmlDoc dentro de JavaScript para las opciones de tipo select, select múltiple, checkbox y rádio.
-    Este acceso se raliza mediante Xpath, y se han modificado las funciones ponerDatosHtml para leer los nodos que salen de la busqueda con Xpath,
-    de donde recuperamos el título y la respuesta correcta en cada pregunta del examen y se presenta en la página Html del examen. Todas estas modificaciones las encontramos en la parte del javaScript
-    ponerDatosHtml.
+1) Se ha modificado el acceso al objeto xmlDoc dentro de JavaScript para las opciones de tipo select, select múltiple, checkbox y rádio.
+Este acceso se raliza mediante Xpath, y se han modificado las funciones ponerDatosHtml para leer los nodos que salen de la busqueda con Xpath, de donde recuperamos el título y la respuesta correcta en cada pregunta del examen y se presenta en la página Html del examen. Todas estas modificaciones las encontramos en la parte del javaScript ponerDatosHtml.
     
+2) Creación del fichero questions.xsl y modificación del fichero questions.xml.
+En fichero questions.xml se ha introducido una modificación para que enlace al fichero questions.xsl. Se ha creado este fichero, questións.xsl, a partir del fichero facilitado en la tarea. Tras realizar estas operaciones podemos ver como si abrimos directamente el fichero (questions.xml) en nuestro navegador hace una transformación simple para presentar nuestras preguntas, opciones y respuestas, del examen de autocorrección, en una tabla.
 
 
-Cumpliendo con los requisitos de la tarea de esta unidad (UT_5) 
-de la asignatura, partiendo de la aplicación web de la unidad anterior, 
-se ha modificado el código JavaScript, de tal manera que el acceso y
-presentación de los datos contenidos en el archivo XML 
-(preguntas, respuestas, etc.) se realiza mediante lenguaje Xpath,
-es decir, se accede por la ruta o path a los distintos elementos
-que lo componen y aparecen en una página HTML.
-
-1) Modifica l'accés a l'objecte xmlDoc (corresponent al document xml llegit)
-per obtenir les opcions de tipus select, select multiple, checkbox i radio.
-L'accés s'ha de fer mitjançant Xpath. Modifica les funcions posarDadesHtml
-per llegir elsnodes que surten de la cerca amb Xpath. (Nivell: fàcil)
-(fins a 3 punts)
 
 2) Crea questions.xsl i modifica el fitxer (o fes una còpia) questions.xml per posar l'enllaç a questions.xsl de tal forma que si obris directament el fitxer questions.xml el navegador fa una transformació simple per presentar les preguntes, totes les opcions i les respostes a una taula. (Nivell: fàcil)
 (fins a 3 punts)
