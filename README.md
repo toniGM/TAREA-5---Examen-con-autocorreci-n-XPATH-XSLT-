@@ -36,8 +36,8 @@ Se ha mejorado la presentación de la tabla resultante de la XSLT sobre la origi
 
 
 
+Ver el esultado de todo lo realizado en esta tarea:
 
-
-
+https://rawgit.com/toniGM/TAREA-5-Examen-con-autocorrecion-XPATH-XSLT-/master/index.html
 
 
