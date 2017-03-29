@@ -3,7 +3,7 @@
 Partiendo del examen de autocorrección de la TAREA 3 se realizan las siguientes variaciones y modificaciones sobre la misma.
 
 
-### 1.- Modificación del acceso al objeto xmlDoc dentro de JavaScript para las opciones de tipo select, select múltiple, checkbox y rádio.
+#### 1.- Modificación del acceso al objeto xmlDoc dentro de JavaScript para las opciones de tipo select, select múltiple, checkbox y rádio.
 
 Este acceso se raliza mediante Xpath, y se han modificado las funciones ponerDatosHtml para leer los nodos que salen de la busqueda con Xpath, de donde recuperamos el título y la respuesta correcta en cada pregunta del examen y se presenta en la página Html del examen. Todas estas modificaciones las encontramos en la parte del javaScript ponerDatosHtml.
 
