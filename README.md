@@ -10,6 +10,8 @@ Este acceso se raliza mediante Xpath, y se han modificado las funciones ponerDat
 En fichero questions.xml se ha introducido una modificación para que enlace al fichero questions.xsl. Se ha creado este fichero, questións.xsl, a partir del fichero facilitado en la tarea. Tras realizar estas operaciones podemos ver como si abrimos directamente el fichero (questions.xml) en nuestro navegador hace una transformación simple para presentar nuestras preguntas, opciones y respuestas, del examen de autocorrección, en una tabla.
 
 
+   Se puede ver aquí:
+   https://rawgit.com/toniGM/TAREA-5-Examen-con-autocorrecion-XPATH-XSLT-/master/xml/questions.xml
 
 2) Crea questions.xsl i modifica el fitxer (o fes una còpia) questions.xml per posar l'enllaç a questions.xsl de tal forma que si obris directament el fitxer questions.xml el navegador fa una transformació simple per presentar les preguntes, totes les opcions i les respostes a una taula. (Nivell: fàcil)
 (fins a 3 punts)
