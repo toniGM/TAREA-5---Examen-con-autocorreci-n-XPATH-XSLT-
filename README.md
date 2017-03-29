@@ -15,7 +15,7 @@ En fichero questions.xml se ha introducido una modificación para que enlace al 
 
    Se puede ver aquí:
    
-   https://rawgit.com/toniGM/TAREA-5-Examen-con-autocorrecion-XPATH-XSLT-/master/xml/questions
+   https://rawgit.com/toniGM/TAREA-5-Examen-con-autocorrecion-XPATH-XSLT-/master/xml/questions.xml
    
    
 #### 3.- Inclusión de código dentro de javaScript para forzar al usuario a responder todas las preguntas.
